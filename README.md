@@ -19,4 +19,16 @@
     consecutively.
 
 
+#### important rules for playing VolleyBall
+* The rally continues, with each team allowed as many as three consecutive touches, until either : 
+     * A team makes a kill, grounding the ball on the opponent's court and winning the rally.
+     * A team commits a fault and loses the rally. 
+     * The team that wins the rally is awarded a point and serves the ball to start the next rally. 
+* A few of the most common faults include:
+     * causing the ball to touch the ground or floor outside the opponents' court or without first passing over the net.
+     * catching and throwing the ball;
+     * double hit: two consecutive contacts with the ball made by the same player;
+     * four consecutive contacts with the ball made by the same team;
+     * net foul: touching the net during play;
+     * foot fault: the foot crosses over the boundary line when serving.
 
