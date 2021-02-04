@@ -33,3 +33,14 @@
      * foot fault: the foot crosses over the boundary line when serving.
 
 [Aboutme] (https://github.com/yaswantS542297/assignment2-lakkaraju/blob/main/Addme.md) 
+
+---
+
+### Important Places to Visit
+   There are many places to visit . Many people show interest to visit those places.
+
+   | Location | Number of Hours | Amount of Money |
+   | mysore palace | 3 | $300 |
+   | Golden Temple | 2 | $200 |
+   | Ellora & Ajanta caves | 5 | $300 |
+   | Taj Mahal | 4 | $500 |
