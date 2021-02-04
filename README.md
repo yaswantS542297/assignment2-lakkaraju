@@ -51,3 +51,31 @@
 ### Writing Quotes
 > "I have only made this letter longer because I have not had the time to make it shorter." - *Blaise Pascal* <br>
 > "Mathematicians deal with large numbers sometimes, but never in their income." - *Isaac Asimov*
+
+---
+### Python
+   Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+[About Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+```
+
+# Python program to check if year is a leap year or not
+
+year = 2000
+
+# To get year (integer input) from the user
+# year = int(input("Enter a year: "))
+
+if (year % 4) == 0:
+   if (year % 100) == 0:
+       if (year % 400) == 0:
+           print("{0} is a leap year".format(year))
+       else:
+           print("{0} is not a leap year".format(year))
+   else:
+       print("{0} is a leap year".format(year))
+else:
+   print("{0} is not a leap year".format(year))
+
+```
+[About Code](https://www.programiz.com/python-programming/examples/leap-year)
